@@ -37,7 +37,7 @@ Rscript miller-mtpa-chapter-1-program.R
 Example and results:
 ![R Output](img/r_res.png)
 
-### Results Summary
+## Results Summary
 
 Execution Time and Memory Usage
 
@@ -60,17 +60,17 @@ Python provides rich statistical libraries and moderate performance.
 
 R excels at statistical modeling but has higher memory and time costs for basic operations.
 
-### Management Recommendation
-# Performance: 
+# Management Recommendation
+## Performance: 
 Go is highly efficient for basic statistical operations, making it ideal for integration with backend systems and cloud services.
 
-# Memory Efficiency: 
+## Memory Efficiency: 
 Go's lightweight memory usage is suitable for high-concurrency, large-scale environments.
 
-# Statistical Needs: 
+## Statistical Needs: 
 For projects requiring advanced statistical modeling, Python or R should be selectively used.
 
-# Team Alignment: 
+## Team Alignment: 
 Adopting Go as the primary language can streamline collaboration between software engineers and data scientists, especially when statistical requirements are relatively basic.
 
 
